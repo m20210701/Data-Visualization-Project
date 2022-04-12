@@ -1,0 +1,44 @@
+Longitude,Latitude,Date,Event,Name,PAGE,IMG_URL,TEXT
+-6.3500000,36.7666670,September 20 1519,Start,Sanlucar de Barrameda,https://gretour.com/ferdinand-magellan/,https://gretour.com/wp-content/uploads/2021/07/ferdinand-magellan-9395202-1-402.jpg,Magellan leaves port at aged 39 years old
+-16.0000000,28.0000000,September 26 1519,Visit,Canary Islands,,,Canary Islands
+-40.3471555,-21.2893744,November 29 1519,Pass,Rio de Janeiro,,,Rio Bay
+-43.2059160,-22.9113660,December 13 1519,Visit,Santa Lucia Bay,,,Santa Lucia Bay
+-49.2185743,-29.2288900,December 26 1519,Pass,,,,
+-55.783333,-35.666667,January 12 1520,Visit,Rio de Solis,,,
+-67.716667,-49.3,March 31 1520,Visit,Puerto San Julian,https://en.wikipedia.org/wiki/Magellan_expedition,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Killing_of_Luiz_Mendoza.jpg/260px-Killing_of_Luiz_Mendoza.jpg,Mutany on board!
+-68.35,-52.333333,October 21 1520,Pass,Cabo Virgenes,,,Cabo Virgenes
+-65.916667,-47.75,November 28 1520,Pass,Cabo Deseado,,,Cabo Deseado
+-67.1477786,-51.3992057,December 2 1520,Pass,,,,
+-71.1044380,-53.9560855,December 6 1520,Pass,,,,
+-72.5983151,-53.5403074,December 15 1520,Pass,,,,
+-76.6410203,-51.2894059,December 21 1520,Pass,,,,
+-85.7819528,-45.3984500,January 2 1521,Pass,,,,
+-102.8322509,-31.6533814,January 12 1521,Pass,,,,
+-121.2893260,-24.2068896,January 18 1521,Pass,,,,
+-138.82,-14.82,January 21 1521,Pass,Puka-Puka,,,Puka-Puka Island
+-151.8192,-11.43,February 4 1521,Pass,Flint Island,,,Flint Island
+145.616667,16.616667,March 6 1521,Visit,Mariana Islands,https://en.wikipedia.org/wiki/Magellan_expedition,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Desembarque_de_Pedro_%C3%81lvares_Cabral_em_Porto_Seguro_em_1500_by_Oscar_Pereira_da_Silva_%281865%E2%80%931939%29.jpg/280px-Desembarque_de_Pedro_%C3%81lvares_Cabral_em_Porto_Seguro_em_1500_by_Oscar_Pereira_da_Silva_%281865%E2%80%931939%29.jpg,'Magellan visits the Mariana Islands'
+135.2856336, 14.3282597,March 12 1521,Pass,,,,
+125,12,March 16 1521,Visit,Samar,,,Samar
+125.739167, 10.755556,March 17 1521,Visit,Homonhon,,,Homonhon
+125.075,9.9078,March 28 1521,Visit,Limasawa,,,Limasawa
+123.75,10.32,April 7 1521,Visit,Cebu,,,Cebu
+123.966667,10.3,April 27 1521,Died,Mactan,https://en.wikipedia.org/wiki/Magellan_expedition,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Magellans_death.jpg/220px-Magellans_death.jpg,Magellan is killed on Mactan!
+118.83,10,September 30 1521,Visit,Palawan,,,Palawan
+114.666667,4.5,October 15 1521,Visit,Brunei,,,Modern day Brunei
+117.8157357,8.1462428,October 31 1521,Pass,,,,
+127.4,0.683333,November 8 1521,Visit,Tidore,,,
+128.117222,-3.638056,December 29 1521,Visit,Ambon Island,,,
+124.933333,-9.233333,January 25 1522,Visit,Timor,,,East Timor
+98.4375878,-15.7922536,February 18 1522,Pass,,,,
+71.7187610,-21.8818898,March 27 1522,Pass,,,,
+44.8240431,-29.8406439,April 6 1522,Pass,,,,
+31.2888868,-33.7243397,April 18 1522,Pass,,,,
+24.6091993,-34.8859309,May 1 1522,Pass,,,,
+18.475556,-34.358056,May 19 1522,Pass,Cape of Good Hope,https://en.wikipedia.org/wiki/Cape_of_Good_Hope,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Playa_Dias%2C_Cape_Point%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_103.jpg/350px-Playa_Dias%2C_Cape_Point%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_103.jpg,The remaining crew pass around Africa heading for home
+13.3589358,-28.1495032,May 26 1522,Pass,,,,
+10.0205854,-21.1254976,June 1 1522,Pass,,,,
+-2.8125878,-9.7956776,June 18 1522,Pass,,,,
+-11.2489458,3.6888551,July 1 1522,Pass,,,,
+-23.916667,15.916667,July 9 1522,Visit,Cape Verde,,,Cape Verde before home
+-6.3500000,36.7666670,September 6 1522,End,Sanlucar de Barrameda,,,
